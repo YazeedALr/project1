@@ -75,11 +75,7 @@ Application	Description	Link
 Slack	Real-time messaging integration	Slack
 Google Calendar	Calendar synchronization	Google Calendar
 Zapier	Workflow automation for various apps	Zapier
-ChatGPT
-إليك نسخة إنجليزية كاملة لملف README، بما في ذلك النصوص والأكواد، لتكون جاهزة للاستخدام:
 
-markdown
-نسخ الكود
 # ClickUp - Efficient Task and Project Management
 
 Welcome to **ClickUp**! ClickUp is designed to be a powerful and flexible tool for task and project management, enabling seamless team coordination. ClickUp offers features for task assignment, scheduling, and reporting to boost productivity.
